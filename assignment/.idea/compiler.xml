@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="deliverymanservicemanager" />
+        <module name="moodymq" />
+        <module name="orderservicemanager" />
+        <module name="restaurantservicemanager" />
+        <module name="settlementservicemanager" />
+        <module name="rewardservicemanager" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="assignment" target="1.8" />
+      <module name="deliverymanservicemanager" target="1.8" />
+      <module name="moodymq" target="1.8" />
+      <module name="orderservicemanager" target="1.8" />
+      <module name="restaurantservicemanager" target="1.8" />
+      <module name="rewardservicemanager" target="1.8" />
+      <module name="settlementservicemanager" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="deliverymanservicemanager" options="-parameters" />
+      <module name="moodymq" options="-parameters" />
+      <module name="orderservicemanager" options="-parameters" />
+      <module name="restaurantservicemanager" options="-parameters" />
+      <module name="rewardservicemanager" options="-parameters" />
+      <module name="settlementservicemanager" options="-parameters" />
+    </option>
+  </component>
+</project>

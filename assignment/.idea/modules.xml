@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/assignment.iml" filepath="$PROJECT_DIR$/.idea/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deliverymanservicemanager/deliverymanservicemanager.iml" filepath="$PROJECT_DIR$/deliverymanservicemanager/deliverymanservicemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moodymq/moodymq.iml" filepath="$PROJECT_DIR$/moodymq/moodymq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orderservicemanager/orderservicemanager.iml" filepath="$PROJECT_DIR$/orderservicemanager/orderservicemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restaurantservicemanager/restaurantservicemanager.iml" filepath="$PROJECT_DIR$/restaurantservicemanager/restaurantservicemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rewardservicemanager/rewardservicemanager.iml" filepath="$PROJECT_DIR$/rewardservicemanager/rewardservicemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/settlementservicemanager/settlementservicemanager.iml" filepath="$PROJECT_DIR$/settlementservicemanager/settlementservicemanager.iml" />
+    </modules>
+  </component>
+</project>

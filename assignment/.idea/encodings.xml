@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/deliverymanservicemanager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deliverymanservicemanager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moodymq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moodymq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orderservicemanager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/orderservicemanager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restaurantservicemanager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restaurantservicemanager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rewardservicemanager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rewardservicemanager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/settlementservicemanager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/settlementservicemanager/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
